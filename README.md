@@ -1,4 +1,4 @@
 lemonade_stand
 ==============
 
-Lemonade stand in python
+Lemonade stand in python, sorry for spaghetti code
